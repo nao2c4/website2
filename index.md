@@ -8,7 +8,7 @@
 ## 1.2節
 
 | テーブルは | こうやって作る |
-| :--- | --- |
+| :--- | :---: |
 | 左 | 中央 |
 | aaaaaaaaaaaaaa | aaaaaaaaaaaaaaaa |
 
